@@ -1,0 +1,1 @@
+c = 299_792_458 # speed of light (m/s)
